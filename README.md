@@ -1,6 +1,5 @@
 # CS-305-Software-Security
 Portfolio work for CS 305 - Software Security
-# CS 305 Software Security Portfolio
 
 ## Artifact Included
 This repository includes my completed Artemis Financial Practices for Secure Software Report. This artifact demonstrates my ability to identify software vulnerabilities, apply secure coding practices, and document security improvements.
